@@ -1,3 +1,7 @@
+# Quality of the code
+
+[![DeepScan grade](https://deepscan.io/api/teams/21926/projects/25277/branches/789318/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=21926&pid=25277&bid=789318)
+
 # CursoTourOfHeroesFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
